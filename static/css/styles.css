@@ -176,4 +176,6 @@ html {
 
     .creatorname {
         display: block;
+        margin-top: 2px;
+    }
 }
